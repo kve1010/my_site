@@ -57,7 +57,7 @@ grid-template-areas:
 {padding: 0px 5px 5px 0px;
 margin: -15px 5px 5px 0px;
 height:280px;
-width: 100%;
+width: 30%;
 text-align: middle;
 align-items: center;
 }
@@ -81,7 +81,7 @@ text-decoration: underline;
 padding: 15px 5px 5px 5px;
 margin: 5px 5px 5px 5px;
 height:280px;
-width: 100%;
+width: 90%;
 font-weight: bold;
 font-size: 35px;
 font-family: 'Verdana';
